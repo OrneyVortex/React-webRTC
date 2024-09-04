@@ -30,14 +30,14 @@ This project is a real-time video calling application built using React for the 
 
 1. Clone the repository:
 
-   \`\`\`bash
+
    git clone https://github.com/OrneyVortex/React-webRTC.git
    cd React-webRTC
-   \`\`\`
+  
 
 2. Install dependencies for both client and server:
 
-   \`\`\`bash
+
    # Navigate to client directory and install dependencies
    cd client
    npm install
@@ -45,22 +45,21 @@ This project is a real-time video calling application built using React for the 
    # Navigate to server directory and install dependencies
    cd ../server
    npm install
-   \`\`\`
+
 
 3. Start the server:
 
-   \`\`\`bash
    npm start
-   \`\`\`
+
 
    The server will run on \`http://localhost:8001\`.
 
 4. Start the client:
 
-   \`\`\`bash
+
    cd ../client
    npm start
-   \`\`\`
+
 
    The client will typically run on \`http://localhost:3000\`.
 
